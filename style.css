@@ -38,7 +38,6 @@ form>div{
 }
 h1{
     font-size: 28px;
-    color: red;
 }
 label,legend{
     font-size: 18px;
@@ -127,6 +126,7 @@ textarea{
     }
 }
 button{
+    font-size: 1em;
     width:100%;
     padding:.4em;
     border-radius: 5px;
