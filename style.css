@@ -51,7 +51,7 @@ input[type="text"],
 input[type="email"],
 textarea{
     font-size: 1em;
-    padding:.5em;
+    padding:5px;
     border:2px solid var(--Grey500);
     border-radius: 5px;
     outline: none;
@@ -167,4 +167,14 @@ h2{
     .name,.qt{
         flex-direction: column;
     }
+    input[type="text"],
+    input[type="email"],
+    textarea{
+    font-size: 1.2em;
+    padding:20px 10px;
+}
+bottom{
+    font-size: 1.2em;
+    padding: 20px 10px;
+}
 }
