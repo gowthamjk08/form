@@ -96,6 +96,7 @@ textarea:focus{
     align-items: center;
     label{
         line-height: 0;
+        word-wrap: break-word;
         display: inline-block;
         margin: 0 .5em;
         cursor: pointer;
