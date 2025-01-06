@@ -50,7 +50,7 @@ p{
 input[type="text"],
 input[type="email"],
 textarea{
-    padding: .3em .5em;
+    padding:10px;
     border:2px solid var(--Grey500);
     border-radius: 5px;
     outline: none;
@@ -121,7 +121,7 @@ textarea{
     position: relative;
     padding:20px 0;
     p{
-        bottom: 0;
+        bottom:-5px;
     }
 }
 button{
