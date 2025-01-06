@@ -38,6 +38,7 @@ form>div{
 }
 h1{
     font-size: 28px;
+    color: red;
 }
 label,legend{
     font-size: 18px;
